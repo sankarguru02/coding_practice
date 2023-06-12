@@ -16,6 +16,7 @@ class llist
         while(i.hasNext())
         {
         System.out.println(i.next());
+        System.out.ptintln("hello");
     }
     
         System.out.println("Arraylist");
